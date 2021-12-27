@@ -1,0 +1,8 @@
+com\soa\service\OscarService.class
+com\soa\exception\ServerErrorMapper.class
+com\soa\controller\OscarController.class
+com\soa\enums\MovieGenre.class
+com\soa\exception\BadRequestMapper.class
+com\soa\CallerApplication.class
+com\soa\filter\CorsFilter.class
+com\soa\dto\ExceptionDTO.class

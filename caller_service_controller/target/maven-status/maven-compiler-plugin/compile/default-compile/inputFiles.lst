@@ -1,0 +1,8 @@
+C:\Users\Alena\IdeaProjects\lab3_soa_controller\src\main\java\com\soa\enums\MovieGenre.java
+C:\Users\Alena\IdeaProjects\lab3_soa_controller\src\main\java\com\soa\controller\OscarController.java
+C:\Users\Alena\IdeaProjects\lab3_soa_controller\src\main\java\com\soa\dto\ExceptionDTO.java
+C:\Users\Alena\IdeaProjects\lab3_soa_controller\src\main\java\com\soa\CallerApplication.java
+C:\Users\Alena\IdeaProjects\lab3_soa_controller\src\main\java\com\soa\exception\BadRequestMapper.java
+C:\Users\Alena\IdeaProjects\lab3_soa_controller\src\main\java\com\soa\filter\CorsFilter.java
+C:\Users\Alena\IdeaProjects\lab3_soa_controller\src\main\java\com\soa\exception\ServerErrorMapper.java
+C:\Users\Alena\IdeaProjects\lab3_soa_controller\src\main\java\com\soa\service\OscarService.java

@@ -1,0 +1,11 @@
+com\soa\service\OscarService.class
+com\soa\dto\LocationDTO.class
+com\soa\dto\MovieDTO.class
+com\soa\enums\MovieGenre.class
+com\soa\dto\PersonDTO.class
+com\soa\client\RestClient$1.class
+com\soa\client\RestClient.class
+com\soa\service\OscarServiceImpl.class
+com\soa\dto\dtoList\MovieDTOList.class
+com\soa\dto\CoordinatesDTO.class
+com\soa\dto\ExceptionDTO.class
